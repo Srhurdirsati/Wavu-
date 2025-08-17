@@ -9,22 +9,20 @@ To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk 
 3->> A Button For Changing Modes
 
 # IMAGESSS
-<img width="1212" height="436" alt="Screenshot from 2025-08-17 18-58-37" src="https://github.com/user-attachments/assets/12bc2f3b-8216-4824-87f5-463df24c6606" />
+
+
+<img width="647" height="381" alt="Screenshot from 2025-08-17 19-02-13" src="https://github.com/user-attachments/assets/fa7f94c9-c4b5-4543-b402-25b95939e94c" />
+
+
+<img width="615" height="359" alt="Screenshot from 2025-08-17 19-01-43" src="https://github.com/user-attachments/assets/1779c2d7-0523-4d00-be50-0c5cf3a8aba3" />
+
+
+<img width="718" height="291" alt="Screenshot from 2025-08-17 19-01-08" src="https://github.com/user-attachments/assets/63c27754-5724-4621-b260-fd7e3ea5a6fb" />
 
 
 
-<img width="718" height="291" alt="Screenshot from 2025-08-17 19-01-08" src="https://github.com/user-attachments/assets/2f77b2a9-8ebf-442e-b41b-06641f0ba44a" />
+<img width="1212" height="436" alt="Screenshot from 2025-08-17 18-58-37" src="https://github.com/user-attachments/assets/057ca56f-cd91-4265-a07c-35b080856334" />
 
-
-
-
-
-
-<img width="315" height="364" alt="image" src="https://github.com/user-attachments/assets/0bac010e-8b9f-4945-8965-82adafbaf355" />
-
-
-
-<img width="647" height="381" alt="Screenshot from 2025-08-17 19-02-13" src="https://github.com/user-attachments/assets/231a7e30-27be-43e1-b6e6-b0370b52d938" />
 
 
 # 📋 Bill of Materials (BOM)
