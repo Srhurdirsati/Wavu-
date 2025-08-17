@@ -1,4 +1,4 @@
-# DevBoard X
+# Wavu - The UnderDeshk PCB Lamp 
 To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk To Lighten Up The Area Under It , This Isnt Very Complex Buttt Good ....
 
 # FEATURES 
