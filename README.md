@@ -1,5 +1,5 @@
 # Wavu - The UnderDeshk PCB Lamp 
-To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk To Lighten Up The Area Under It , This Isnt Very Complex Buttt Good ....
+To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk To Lighten Up The Area Under It , This Isnt Very Complex Buttt Good .... It Includes m3 Screws For Locking It Under Desk And This Is Also RGB WIth Cool Effects Changed By Modes Button SOOOOO ENJOYYYY!!!!
 
 # FEATURES 
 1->> 20 High Intensity lights
