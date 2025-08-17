@@ -55,5 +55,5 @@ I Needed $92 In Total To Afford The Pico And Cable As I Don't Have It
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: ` ~$89 WITH SHIPPING CHARGES INCLUDED`
+**Total Estimated Cost**: ` ~$92 WITH SHIPPING CHARGES INCLUDED`
 
