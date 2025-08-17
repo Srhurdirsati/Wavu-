@@ -18,12 +18,6 @@ To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk 
 
 
 
-<img width="615" height="359" alt="Screenshot from 2025-08-17 19-01-43" src="https://github.com/user-attachments/assets/59f3c68a-de38-4c34-943d-0cd7ae891167" />
-
-
-
-<img width="391" height="465" alt="image" src="https://github.com/user-attachments/assets/01462674-7c2f-4e85-96cc-8310d2134001" />
-
 
 
 <img width="315" height="364" alt="image" src="https://github.com/user-attachments/assets/0bac010e-8b9f-4945-8965-82adafbaf355" />
@@ -50,6 +44,7 @@ To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk 
 | MOUNT    |   4 | M3 Mount Holes                          | For mechanical mounting of PCB                   | —                         |
 
 COMPLETE PCBA = $89 With Shipping Included
+I Needed $92 In Total To Afford The Pico And Cable As I Don't Have It
 
 
 ## JLCPCB
