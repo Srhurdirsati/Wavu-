@@ -42,7 +42,9 @@ To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk 
 | MOUNT    |   4 | M3 Mount Holes                          | For mechanical mounting of PCB                   | —                         |
 
 COMPLETE PCBA = $89 With Shipping Included
-I Needed $92 In Total To Afford The Pico And Cable As I Don't Have It
+
+
+Although ,I Needed $92 In Total To Afford The Pico And Cable As I Don't Have It
 
 
 ## JLCPCB
