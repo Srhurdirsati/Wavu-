@@ -1,7 +1,7 @@
 ---
 Title: "Wavu- The UnderDesk RGB Lamp"
 Author: "Rudra Mishra"
-Description: "Yo, This Is An OP Under Desk Lamp Which Can Be Stuck Under Desk By Using Double Sided Tape ! Enjoy The RGB Light Mechanism With 20 High Intensity LEDs"
+Description: "Yo, This Is A Gesture Controlled  OP Under Desk Lamp Which Can Be Stuck Under Desk By Using Double Sided Tape ! Enjoy The RGB Light Mechanism With 20 High Intensity LEDs"
 Created On: "17/8/2025"
 ---
 
