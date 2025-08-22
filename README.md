@@ -1,4 +1,4 @@
-# Wavu - The UnderDeshk PCB Lamp 
+# Wavu - The UnderDeshk Lamp 
 To Bross, This Is A Lamp Made By Rudra Mishra Which is just amazing , it can be operated with gestures - swipe up for brightness , left and right for modes and down for low brightness , Can Be Used Under Your Desk To Lighten Up The Area Under It , This Isnt Very Complex Buttt Good .... It Includes m3 Screws For Locking It Under Desk And This Is Also RGB WIth Cool Effects Changed By Modes Button SOOOOO ENJOYYYY!!!!
 
 # FEATURES 
@@ -73,5 +73,5 @@ Although ,I Needed $82 In Total To Afford The Pico And Cable As I Don't Have It
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: ` ~$92 WITH SHIPPING CHARGES INCLUDED`
+**Total Estimated Cost**: ` ~$82 WITH SHIPPING CHARGES INCLUDED`
 
