@@ -24,7 +24,7 @@ This Isn't A Joke , This Was Simple So I Completed All In One Day , I Reseaches 
 
 # August 22th: AAH ! This CAD WORK IS PATHETIC WITH MY POTATO PC [i2 2100 without any gpu , it took too much time to complete this] [14.5 HOURS]
 
-Not Funny Bruh !  I Am Working On A Potato PC Without Any Gpu So Its Too Timetaking To Make A Small Project (Too Small). After All , I Started To Make It Earlier AS as I Made The PCB , But Decided To Make Just PCb . Uhh ! Now Decicded To Make A Case Too ! This Total Took Soo Mush Of My Time Like 8 Hours Earlier {Including Plannig For The Case } And Like 5 Hours Tommorrow To Design The Bottom {I Made It 3 Times , First - 8 Screw , Second - 4 Screws And 1 Double Sided Tape , Third - Just 2 Tapes To Make It Portable Too} And Today Like 3 Hours !! 
+Not Funny Bruh !  I Am Working On A Potato PC Without Any Gpu So Its Too Timetaking To Make A Small Project (Too Small). After All , I Started To Make It Earlier AS as I Made The PCB , But Decided To Make Just PCb . Uhh ! Now Decicded To Make A Case Too ! This Total Took Soo Mush Of My Time Like 6 Hours Earlier {Including Plannig For The Case } And Like 5 Hours Tommorrow To Design The Bottom {I Made It 3 Times , First - 8 Screw , Second - 4 Screws And 1 Double Sided Tape , Third - Just 2 Tapes To Make It Portable Too} And Today Like 3 Hours !! 
 
 I AM NEW TO CAD <- THE REASON FOR TAKING SO MUCH TIME , BUT I LEARNT TOO MUCH NOW , WOULDN'T TAKE MUCH TIME FROM NEXT TIME
 
