@@ -41,10 +41,10 @@ To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk 
 | LED\_PWR |   1 | 0805 Power LED + 220 Ω Resistor         | Indicates board is powered                       | Standard                  |
 | MOUNT    |   4 | M3 Mount Holes                          | For mechanical mounting of PCB                   | —                         |
 
-COMPLETE PCBA = $89 With Shipping Included
+COMPLETE PCBA = $79 With Shipping Included
 
 
-Although ,I Needed $92 In Total To Afford The Pico And Cable As I Don't Have It
+Although ,I Needed $82 In Total To Afford The Pico And Cable As I Don't Have It
 
 
 ## JLCPCB
