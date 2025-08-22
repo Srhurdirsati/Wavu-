@@ -5,7 +5,7 @@ Description: "Yo, This Is An OP Under Desk Lamp Which Can Be Stuck Under Desk By
 Created On: "17/8/2025"
 ---
 
-# August 17th: JUST 1 DAYAND ALL COMPLETED , PCB SCHEMAIC AND WIRING [8 HOURS]
+# August 17th: JUST 1 DAYAND ALL COMPLETED , PCB SCHEMAIC AND WIRING [10 HOURS]
 
 This Isn't A Joke , This Was Simple So I Completed All In One Day , I Reseaches A Lot And Gathered All Components And Designed A PCB In Notes First And Then Started Schematics [3hr] And Then Routing [3.5hr] And At Last JLCPCB Work [1hr] HAVE A LOOK !!!!
 
@@ -22,7 +22,7 @@ This Isn't A Joke , This Was Simple So I Completed All In One Day , I Reseaches 
 <img width="647" height="381" alt="Screenshot from 2025-08-17 19-02-13" src="https://github.com/user-attachments/assets/99466375-5d85-4de1-89c5-0ec023668da2" />
 
 
-# August 22th: AAH ! This CAD WORK IS PATHETIC WITH MY POTATO PC [i2 2100 without any gpu , it took too much time to complete this] [16.5 HOURS]
+# August 22th: AAH ! This CAD WORK IS PATHETIC WITH MY POTATO PC [i2 2100 without any gpu , it took too much time to complete this] [14.5 HOURS]
 
 Not Funny Bruh !  I Am Working On A Potato PC Without Any Gpu So Its Too Timetaking To Make A Small Project (Too Small). After All , I Started To Make It Earlier AS as I Made The PCB , But Decided To Make Just PCb . Uhh ! Now Decicded To Make A Case Too ! This Total Took Soo Mush Of My Time Like 8 Hours Earlier {Including Plannig For The Case } And Like 5 Hours Tommorrow To Design The Bottom {I Made It 3 Times , First - 8 Screw , Second - 4 Screws And 1 Double Sided Tape , Third - Just 2 Tapes To Make It Portable Too} And Today Like 3 Hours !! 
 
