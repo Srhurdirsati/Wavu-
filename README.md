@@ -1,5 +1,5 @@
 # Wavu - The UnderDeshk PCB Lamp 
-To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk To Lighten Up The Area Under It , This Isnt Very Complex Buttt Good .... It Includes m3 Screws For Locking It Under Desk And This Is Also RGB WIth Cool Effects Changed By Modes Button SOOOOO ENJOYYYY!!!!
+To Bross, This Is A Lamp Made By Rudra Mishra Which is just amazing , it can be operated with gestures - swipe up for brightness , left and right for modes and down for low brightness , Can Be Used Under Your Desk To Lighten Up The Area Under It , This Isnt Very Complex Buttt Good .... It Includes m3 Screws For Locking It Under Desk And This Is Also RGB WIth Cool Effects Changed By Modes Button SOOOOO ENJOYYYY!!!!
 
 # FEATURES 
 1->> 20 High Intensity lights
@@ -7,6 +7,8 @@ To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk 
 2->>  OP Pico As Controller
 
 3->> A Button For Changing Modes
+
+4->> Gesture Operated Too !!
 
 # IMAGESSS
 
@@ -22,6 +24,22 @@ To Bross, This Is A Lamp Made By Rudra Mishra Which Can Be Used Under Your Desk 
 
 
 <img width="1212" height="436" alt="Screenshot from 2025-08-17 18-58-37" src="https://github.com/user-attachments/assets/057ca56f-cd91-4265-a07c-35b080856334" />
+
+
+<img width="456" height="342" alt="Screenshot from 2025-08-22 21-47-34" src="https://github.com/user-attachments/assets/a79276e7-66b0-4cf8-b4e2-9aab0d4cff51" />
+
+
+<img width="338" height="242" alt="Screenshot from 2025-08-22 21-47-24" src="https://github.com/user-attachments/assets/96aa33d8-353d-42ab-b730-
+8ca2701abbae" />
+
+
+
+<img width="493" height="299" alt="Screenshot from 2025-08-22 21-34-34" src="https://github.com/user-attachments/assets/c1ef7431-1f26-4b8f-be80-8e29f12d846b" />
+
+
+<img width="493" height="299" alt="Screenshot from 2025-08-22 21-34-11" src="https://github.com/user-attachments/assets/eb925de2-36b6-4a69-927d-0151bb631747" />
+
+
 
 
 
