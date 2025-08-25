@@ -43,15 +43,16 @@ I AM NEW TO CAD <- THE REASON FOR TAKING SO MUCH TIME , BUT I LEARNT TOO MUCH NO
 <img width="338" height="242" alt="Screenshot from 2025-08-22 21-47-24" src="https://github.com/user-attachments/assets/f9700353-e749-4f2d-958c-e195626b8cd9" />
 
 
-<img width="493" height="299" alt="Screenshot from 2025-08-22 21-34-34" src="https://github.com/user-attachments/assets/c548b82f-50b3-45d6-aad0-
-36922b6ac5f4" />
 
-
-<img width="493" height="299" alt="Screenshot from 2025-08-22 21-34-11" src="https://github.com/user-attachments/assets/ce41ff01-e939-4b8f-bb75-
-444e2f6f59ef" />
 
 
 <img width="456" height="342" alt="Screenshot from 2025-08-22 21-47-34" src="https://github.com/user-attachments/assets/6cda6af7-1ab0-4aa7-a0c6-760e06f71748" />
+
+
+<img width="493" height="299" alt="Screenshot from 2025-08-22 21-34-34" src="https://github.com/user-attachments/assets/c8c29bfd-e10d-47a5-9f56-77e8abc025f8" />
+
+
+<img width="493" height="299" alt="Screenshot from 2025-08-22 21-34-11" src="https://github.com/user-attachments/assets/db59f685-4978-40c7-acbf-fa178ac13ff0" />
 
 
 
