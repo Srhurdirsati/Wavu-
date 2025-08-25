@@ -28,14 +28,30 @@ Not Funny Bruh !  I Am Working On A Potato PC Without Any Gpu So Its Too Timetak
 
 
 Steps To Make The Case - [FREECAD]
+
+
 > I Have First Made Measurements In My Rough Notebook
+
 > Design The Bottom Case First , take 5mm more than your pcb x and y , make a rectangle with that size , Close Sketch And Use Pad[offset] to make your sketch 3d
+
 > Select the top face of rectangle after pad operation and make another sjetch of a rectangle of the same size as of your pcb , make mount holes if you want (I Opeted For Double Sided Strong Tape)
+
+
 > YOU HAVE SUCCESSFULLY DESIGNED YOUR BOTTOM PART OF THE CASE
+
+
 > NOW YOU HAVE TO DESIGN THE TOP PART OF YOUR CASE
+
+
 > Start by making a brnad new sketch of a rectangle same as the size of your case (The First Rectangle Which You Have Made Of +5mm Each :D)
+
+
 > Close Sketch And Make It 3D Using Pad Operation
+
+
 > YOU COMPLETED YOUR TOP TOO COMPLETING FULL 3D DESIGN !! Yayy :D.....
+
+
 
 I AM NEW TO CAD <- THE REASON FOR TAKING SO MUCH TIME , BUT I LEARNT TOO MUCH NOW , WOULDN'T TAKE MUCH TIME FROM NEXT TIME
 
