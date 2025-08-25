@@ -50,7 +50,9 @@ I AM NEW TO CAD <- THE REASON FOR TAKING SO MUCH TIME , BUT I LEARNT TOO MUCH NO
 <img width="493" height="299" alt="Screenshot from 2025-08-22 21-34-11" src="https://github.com/user-attachments/assets/ce41ff01-e939-4b8f-bb75-
 444e2f6f59ef" />
 
+
 <img width="456" height="342" alt="Screenshot from 2025-08-22 21-47-34" src="https://github.com/user-attachments/assets/6cda6af7-1ab0-4aa7-a0c6-760e06f71748" />
+
 
 
 
